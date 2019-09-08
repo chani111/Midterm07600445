@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Midterm 07600445</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_to_facebook">Login To Facebook</string>
+    <string name="login">LOGIN</string>
+    <string name="chaninat_charoensup" translatable="false">Chaninat Charoensup</string>
+    <string name="view_as">View As</string>
+    <string name="add_to_story">Add to Story</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="more">More</string>
+    <string name="goes_to">Goes to</string>
+    <string name="lives_in">Lives in</string>
+    <string name="from">From</string>
+    <string name="loginfalse" translatable="false">Invalid username or password</string>
+    <string name="rose" translatable="false">สวนกุหลาบวิทยาลัย</string>
+    <string name="Bang" translatable="false">กรุงเทพมหานคร</string>
+    <string name="bangkok" translatable="false">กรุงเทพมหานคร</string>
+    <string name="promlert_lovichit" translatable="false">Promlert Lovichit</string>
+</resources>
